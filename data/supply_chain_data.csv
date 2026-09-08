@@ -1,0 +1,11 @@
+Product,current_stock,reorder_point,daily_demand,supplier_lead_time,unit_cost
+Laptop,75,100,20,7,50000
+Monitor,150,80,15,5,12000
+Keyboard,40,60,12,6,1500
+Mouse,120,70,10,4,800
+Printer,30,50,8,10,15000
+Scanner,110,70,6,8,9000
+Router,65,80,14,7,5000
+SSD,200,100,18,6,7000
+RAM,45,80,15,9,4000
+Webcam,25,60,9,8,3500
